@@ -326,4 +326,4 @@ I'll be posting more results on Twitter. [<img src="resource_images/Twitter_Soci
 ### License
 All code in this repository is under the MIT license as specified by the LICENSE file.
 The model weights listed in this readme under the "Pretrained Weights" section are trained by ourselves and are released under the MIT license.
-https://github.com/jantic/DeOldify/blob/master/VideoColorizer.ipynb
+https://mybinder.org/v2/gh/jantic/DeOldify/master?filepath=https%3A%2F%2Fgithub.com%2Fjantic%2FDeOldify%2Fblob%2Fmaster%2FVideoColorizer.ipynb
