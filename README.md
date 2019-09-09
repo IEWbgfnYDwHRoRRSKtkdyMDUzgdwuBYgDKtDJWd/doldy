@@ -329,3 +329,4 @@ The model weights listed in this readme under the "Pretrained Weights" section a
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jantic/DeOldify/master?filepath=https%3A%2F%2Fgithub.com%2Fjantic%2FDeOldify%2Fblob%2Fmaster%2FVideoColorizer.ipynb)
+https://mybinder.org/v2/gh/jantic/DeOldify/master?filepath=https%3A%2F%2Fgithub.com%2Fjantic%2FDeOldify%2Fblob%2Fmaster%2FVideoColorizer.ipynb
